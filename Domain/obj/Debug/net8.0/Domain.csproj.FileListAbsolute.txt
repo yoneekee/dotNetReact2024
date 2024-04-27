@@ -1,0 +1,11 @@
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.dll
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.dll
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Domain/obj/Debug/net8.0/ref/Domain.dll
