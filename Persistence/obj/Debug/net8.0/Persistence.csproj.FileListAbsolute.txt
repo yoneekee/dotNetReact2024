@@ -13,3 +13,4 @@
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json

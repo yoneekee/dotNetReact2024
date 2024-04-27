@@ -15,3 +15,4 @@
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Application/obj/Debug/net8.0/refint/Application.dll
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Application/obj/Debug/net8.0/Application.pdb
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Application/obj/Debug/net8.0/ref/Application.dll
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Application/obj/Debug/net8.0/Application.sourcelink.json
