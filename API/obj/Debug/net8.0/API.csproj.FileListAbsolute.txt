@@ -134,3 +134,5 @@
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/API/obj/Debug/net8.0/API.sourcelink.json
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/API/bin/Debug/net8.0/MediatR.dll
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/API/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/API/bin/Debug/net8.0/AutoMapper.dll
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/API/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
