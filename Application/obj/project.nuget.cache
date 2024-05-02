@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "z8kb1RIiEHAwtnWCsXA5yTaB7wMX0U9jMtz/IecId8Kuh+mf9miwHmJArXEJhFpdD7hIyXhhU8ea6PafcG8rdA==",
+  "dgSpecHash": "j7SPi0fBO4tJ1o/B4W8wLD0HLglBjzwrn200QUDS9jSOcBGhr4Q7D1OIZEHha6N7ik5KHh8ngGZdozo/LQH22g==",
   "success": true,
   "projectFilePath": "/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/yoneekim/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/yoneekim/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/yoneekim/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/yoneekim/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/yoneekim/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/yoneekim/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/yoneekim/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/yoneekim/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
