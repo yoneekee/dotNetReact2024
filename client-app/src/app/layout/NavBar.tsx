@@ -16,7 +16,7 @@ export default function NavBar() {
         </Menu.Item>
 
         <Menu.Item as={NavLink} to="/activities" name="Activities" />
-        <Menu.Item as={NavLink} to="/activities">
+        <Menu.Item>
           <Button
             as={NavLink}
             to="/createActivity"

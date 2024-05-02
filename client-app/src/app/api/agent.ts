@@ -13,7 +13,7 @@ axios.defaults.baseURL = "http://localhost:5007/api";
 // 렌더링 시 loading 2
 axios.interceptors.response.use(async (response) => {
   try {
-    await sleep(1000);
+    await sleep(700);
     return response;
   } catch (e) {
     console.log(e);

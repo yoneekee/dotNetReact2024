@@ -17,7 +17,7 @@ export default observer(function ActivityForm() {
     loadingInitial,
   } = activityStore;
 
-  const { id } = useParams();
+  const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
 
   const [activity, setActivity] = useState<Activity>({
@@ -33,8 +33,6 @@ export default observer(function ActivityForm() {
   useEffect(() => {
     if (id) loadActivity(id).then((activity) => setActivity(activity!));
   }, [id, loadActivity]);
-
-  console.log(loading);
 
   function handleSubmit() {
     if (activity.id) {

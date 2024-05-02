@@ -1,15 +1,10 @@
-//import React from "react";
 import { Grid } from "semantic-ui-react";
 import { useStore } from "../../../app/stores/store";
-
 import { observer } from "mobx-react-lite";
 import { useParams } from "react-router-dom";
 import { useEffect } from "react";
 import LoadingComponent from "../../../app/layout/LoadingComponent";
 import ActivitiyDetailedHeader from "./ActivitiyDetailedHeader";
-import ActivitiyDetailedInfo from "./ActivitiyDetailledInfo";
-import ActivitiyDetailedChat from "./ActivitiyDetailedChat";
-import ActivitiyDetailedSidebar from "./ActivityDetailedSidebar";
 
 export default observer(function ActivityDetails() {
   const { activityStore } = useStore();
@@ -29,13 +24,8 @@ export default observer(function ActivityDetails() {
   return (
     <Grid>
       <Grid.Column width={10}>
-        <ActivitiyDetailedHeader activity={activity} />
-        <ActivitiyDetailedInfo activity={activity} />
-        <ActivitiyDetailedChat />
-      </Grid.Column>
-
-      <Grid.Column width={6}>
-        <ActivitiyDetailedSidebar />
+        <ActivitiyDetailedHeader />
+        <ActivityDetailedInfo />
       </Grid.Column>
     </Grid>
   );
