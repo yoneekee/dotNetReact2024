@@ -1,19 +1,17 @@
-//import React from "react";
-
 import ActivityList from "./ActivityList";
 import { Grid } from "semantic-ui-react";
 import { useStore } from "../../../app/stores/store";
 import { useEffect } from "react";
-//import LoadingComponent from "../../../app/layout/LoadingComponent";
 import { observer } from "mobx-react-lite";
 import LoadingComponent from "../../../app/layout/LoadingComponent";
 
 export default observer(function ActivitiyDashBoard() {
   const { activityStore } = useStore();
+  const { loadActivities, activityRegistry } = activityStore;
 
   useEffect(() => {
-    activityStore.loadActivities();
-  }, [activityStore]);
+    if (activityRegistry.size <= 1) loadActivities();
+  }, [activityRegistry.size, loadActivities]);
 
   if (activityStore.loadingInitial) return <LoadingComponent />;
 
