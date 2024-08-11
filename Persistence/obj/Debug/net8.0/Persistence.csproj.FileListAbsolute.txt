@@ -8,9 +8,9 @@
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persistence.dll
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
 /Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
-/Users/yoneekim/YoneeProject/DotNetReact2024/demo/Reactivities/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json

@@ -1,5 +1,5 @@
 // Query Handler
-
+using Application.Core;
 using Domain;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -25,10 +25,15 @@ namespace Application.Activities
                
             }
             
-            public async Task<List<Activity>> Handle(Query request, CancellationToken token)
+            public async Task<Result<List<Activity>>> Handle(Query request, CancellationToken cancellationToken)
             {
-                return await _context.Activities.ToListAsync();
+                return Result<List<Activity>>.Success(await _context.Activities.ToListAsync(cancellationToken));
             }
-        }
+
+            Task<List<Activity>> IRequestHandler<Query, List<Activity>>.Handle(Query request, CancellationToken cancellationToken)
+            {
+                throw new NotImplementedException();
+            }
+        } 
     }
 }
